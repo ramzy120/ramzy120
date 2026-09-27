@@ -33,20 +33,20 @@
 
 I'm a **Software Engineer and Full-Stack Web Developer** focused on building practical digital products that combine technology, design, and automation.
 
-I enjoy turning ideas into functional applications — from responsive websites and full-stack platforms to **AI-powered applications, Discord bots, dashboards, APIs, and digital tools**.
+I enjoy turning ideas into functional applications - from responsive websites and full-stack platforms to **AI-powered applications, Discord bots, dashboards, APIs, and digital tools**.
 
 I'm particularly interested in the intersection of **software engineering, artificial intelligence, product design, and automation**.
 
 ### What I Do
 
-* 🚀 **Full-Stack Development** — Building complete web applications from frontend to backend
-* 🤖 **AI-Powered Applications** — Integrating AI, LLMs, automation, and intelligent features into products
-* 🎨 **UI/UX & Graphic Design** — Designing modern interfaces, branding, and digital experiences
-* 💬 **Discord Development** — Building custom Discord bots, automation systems, and community tools
-* 📊 **Dashboards & APIs** — Creating data-driven dashboards and REST APIs
-* 📱 **Digital Solutions** — Developing websites, platforms, and tools for businesses and organizations
-* 📣 **Social Media & Digital Marketing** — Content strategy, brand management, and digital growth
-* 🛠️ **IT Services** — Technical setup, support, and digital infrastructure
+* 🚀 **Full-Stack Development** - Building complete web applications from frontend to backend
+* 🤖 **AI-Powered Applications** - Integrating AI, LLMs, automation, and intelligent features into products
+* 🎨 **UI/UX & Graphic Design** - Designing modern interfaces, branding, and digital experiences
+* 💬 **Discord Development** - Building custom Discord bots, automation systems, and community tools
+* 📊 **Dashboards & APIs** - Creating data-driven dashboards and REST APIs
+* 📱 **Digital Solutions** - Developing websites, platforms, and tools for businesses and organizations
+* 📣 **Social Media & Digital Marketing** - Content strategy, brand management, and digital growth
+* 🛠️ **IT Services** - Technical setup, support, and digital infrastructure
 
 ---
 
@@ -142,24 +142,7 @@ I'm currently interested in building and experimenting with:
 * 🎨 Modern UI/UX experiences
 * 📱 Digital platforms for businesses and organizations
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramzy120&show_icons=true&theme=dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramzy120&layout=compact&theme=dark&hide_border=true" height="165" />
-</p>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramzy120&theme=react-dark&hide_border=true" width="100%" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
